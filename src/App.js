@@ -8,6 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
          <h1>Thân Vương</h1>
+         <h1>Thiện cute</h1>
         </p>
         <a
           className="App-link"
