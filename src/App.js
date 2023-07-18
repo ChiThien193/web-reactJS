@@ -9,6 +9,7 @@ function App() {
         <p>
          <h1>Thân Vương</h1>
          <h1>Thiện cute</h1>
+         <p>Vương đi đá gà</p>
         </p>
         <a
           className="App-link"
